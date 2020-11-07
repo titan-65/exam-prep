@@ -1,5 +1,7 @@
+
 <script>
   // your script goes here
+  // TODO: Add more navigation links to current state of navi bar
   import { Link, Route } from 'svelte-routing'
   export let label
 </script>
@@ -45,16 +47,6 @@
               Recipes
                       </Link>
 
-            </a>
-          </li>
-
-          <li class="button-container nav-item iframe-extern">
-            <a
-              href="https://www.creative-tim.com/product/material-kit-pro?ref=presentation"
-              target="_blank"
-              class="btn  btn-rose   btn-round btn-block">
-              <i class="material-icons">shopping_cart</i>
-              Buy Now
             </a>
           </li>
         </ul>

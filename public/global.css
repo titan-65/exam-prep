@@ -5130,7 +5130,7 @@ button.close {
     outline: 0;
 }
 
-.modal-backdrop {
+/* .modal-backdrop {
     position: fixed;
     top: 0;
     right: 0;
@@ -5138,7 +5138,7 @@ button.close {
     left: 0;
     z-index: 1040;
     background-color: #000;
-}
+} */
 
 .modal-backdrop.fade {
     opacity: 0;
